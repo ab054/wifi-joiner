@@ -4,4 +4,4 @@ info /INSTRUMENTATION_RESULT: [^\n]*/
 start /Calling mobile test framework, this will take a few.../
 start /Putting DUT into OOB clean state/
 warn /pytest_runtest_makereport() [^\n]*/
-error /NoMatchingViewException: No views in hierarchy found matching [^\n]*/
+error /.NoMatchingViewException: No views in hierarchy found matching:[^\n]*/
