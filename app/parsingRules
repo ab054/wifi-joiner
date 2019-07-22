@@ -1,0 +1,6 @@
+error /INTERNALERROR> DutUnresponsive: [^\n]*/
+error /INSTRUMENTATION_STATUS_CODE: 1 :[^\n]*/
+info /INSTRUMENTATION_RESULT: [^\n]*/
+start /Calling mobile test framework, this will take a few.../
+start /Putting DUT into OOB clean state/
+warn /pytest_runtest_makereport() [^\n]*/
